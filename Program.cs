@@ -11,6 +11,6 @@ class Program
         // Запись текста в файл
         File.WriteAllText(filePath, content);
 
-        Console.WriteLine("Файл не успешно создан и записан.");
+        Console.WriteLine("Файлне успешно создан и записан.");
     }
 }
